@@ -1,0 +1,9 @@
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\bin\Debug\PictureASCII.exe.config
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\bin\Debug\PictureASCII.exe
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\bin\Debug\PictureASCII.pdb
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\obj\Debug\PictureASCII.csprojResolveAssemblyReference.cache
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\obj\Debug\PictureASCII.Form1.resources
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\obj\Debug\PictureASCII.Properties.Resources.resources
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\obj\Debug\PictureASCII.csproj.GenerateResource.Cache
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\obj\Debug\PictureASCII.exe
+c:\users\kamil\documents\visual studio 2015\Projects\PictureASCII\PictureASCII\obj\Debug\PictureASCII.pdb
